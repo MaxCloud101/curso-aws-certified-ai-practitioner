@@ -1,0 +1,1 @@
+# curso-aws-certified-ai-practitioner
